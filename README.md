@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.discordapp.net/attachments/1191847439980830883/1198712556336971887/b386146608ef93c40508a661f01805de_3.png?ex=65bfe710&is=65ad7210&hm=b4f5174ef0b22be4816a9a3d723b8f430a6b6bca1281d208856dc48bacc8f240&=&format=webp&quality=lossless&width=625&height=552" width="500px"> </p>
+<p align="center"><img src="https://media.discordapp.net/attachments/1191847439980830883/1198712901528211668/b386146608ef93c40508a661f01805de_3_1.png?ex=65bfe762&is=65ad7262&hm=56fae0574d92db8a984d4194f0819c598d7f29af45fc04e2d5193ac33b835381&=&format=webp&quality=lossless&width=680&height=600" width="500px"> </p>
 
 <!--
 **HEX4GRAM/hex4gram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
