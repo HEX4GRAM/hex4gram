@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/564x/82/6d/76/826d766adf2e915e22019f191efa7ebf.jpg" width="500px"> </p>
+<p align="center"><img src="https://i.pinimg.com/564x/41/4b/fa/414bfa17a929599fcfac4ce727843bc5.jpg" width="800px"> </p>
 
 <!--
 **HEX4GRAM/hex4gram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
